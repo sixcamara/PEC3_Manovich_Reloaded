@@ -17,7 +17,7 @@ Fecha: Mayo 2023
 
 A través de las gafas de **Manovich**, en esta exposición analizaremos dos ejemplos de software de medios que representan ejemplos del concepto de **Hibridación**. Comenzaremos acercándonos a la cultura popular, presenciando como la capa social toma protagonismo en **Comixology**, un servicio de la compañía **Amazon** en el que los usuarios consumen, en formato digital, cómics. Realizaremos también una aproximación a la red social **ClubHouse**, otro ejemplo de hibridación, que en este caso utiliza el formato audio para que sus usuarios interactúen en la misma.
 
-En ambos ejemplos se consuma un proceso por el cual elementos de diferentes medios tradicionales se combinan en un nuevo medio digital. Como resultado de ello, el protagonismo alcanzado por la interfaz de usuario, muestra una obra en cuyo consumo y experiencia de usuario se sobrepasan las fronteras de los medios anteriores tradicionales y permiten al acceder a través de diferentes plataformas y dispositivos.
+En ambos ejemplos se consuma un proceso por el cual elementos de diferentes medios tradicionales se combinan en un nuevo medio digital. Como resultado de ello, el protagonismo alcanzado por la interfaz de usuario, muestra una obra en cuyo consumo y experiencia de usuario se sobrepasan las fronteras de los medios anteriores tradicionales y permiten al usuario acceder a través de diferentes plataformas y dispositivos.
 
 
 ## Re-descubriendo la hibridacion: Comixology
