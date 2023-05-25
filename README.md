@@ -54,10 +54,10 @@ Algunos expertos consideran que el propio **elemento diferencial** de esta red s
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Comixology. (2023). Amazon. https://www.amazon.com/kindle-dbs/comics-store/home?_encoding=UTF8&merchant=&ref=nav_ya_signin&#nav-top
 * International Movie Database. (2023). IMDb. https://www.imdb.com/name/nm1569276/?ref_=nv_sr_srsg_0_tt_0_nm_8_q_chadwic
-* Molina Fernández, M. (2018, 5 Diciembre). Nuevos horizontes del noveno arte. Cómic digital. Amberes Revista Cultural. https://amberesrevista.com/comic-digital/
-* Histografías. (2023). La historia de Clubhouse convertida en infografía. https://histografias.com/historia-clubhouse-app-infografia.html
-* La viznaga digital. (2023). ¿Qué es Clubhouse y por qué es tan importante? Marketing Digital. https://www.labiznagadigital.es/blog/clubhouse-redes-sociales/#:~:text=Historia%20de%20Clubhouse,entre%20una%20o%20varias%20personas.
-* BBC News. (2021, 22 de Febrero). Clubhouse: ¿qué es esta aplicación y cómo se obtiene una invtiación? https://www.bbc.com/mundo/noticias-56126658
+* Molina Fernández, M. (2018, 5 Diciembre). **Nuevos horizontes del noveno arte. Cómic digital**. Amberes Revista Cultural. https://amberesrevista.com/comic-digital/
+* Histografías. (2023). **La historia de Clubhouse convertida en infografía**. https://histografias.com/historia-clubhouse-app-infografia.html
+* La viznaga digital. (2023). **¿Qué es Clubhouse y por qué es tan importante?** Marketing Digital. https://www.labiznagadigital.es/blog/clubhouse-redes-sociales/#:~:text=Historia%20de%20Clubhouse,entre%20una%20o%20varias%20personas.
+* BBC News. (2021, 22 de Febrero). **Clubhouse: ¿qué es esta aplicación y cómo se obtiene una invtiación?** https://www.bbc.com/mundo/noticias-56126658
 
 
 ----
