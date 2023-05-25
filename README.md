@@ -8,7 +8,7 @@ Autor: Sixto Cámara Anguita
 
 Fecha: Mayo 2023
 
-![Comic y Cultura Popular](http://www.i-cult.it/wp-content/uploads/comics-comixology.jpg) 
+![Comic y Cultura Popular](https://quadrinheiros.files.wordpress.com/2014/07/comics-comixology.jpg) 
 
 
 
