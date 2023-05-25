@@ -43,7 +43,9 @@ El 28 de Agosto de 2020, el mundo de la **Cultura Popular** quedó conmocionado 
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Comixology. (2023). Amazon. /https://www.amazon.com/kindle-dbs/comics-store/home?_encoding=UTF8&merchant=&ref=nav_ya_signin&#nav-top
+* International Movie Database. (2023). IMDb. /https://www.imdb.com/name/nm1569276/?ref_=nv_sr_srsg_0_tt_0_nm_8_q_chadwic
 
 
 ----
