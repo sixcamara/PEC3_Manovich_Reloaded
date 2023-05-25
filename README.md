@@ -8,7 +8,7 @@ Autor: Sixto Cámara Anguita
 
 Fecha: Mayo 2023
 
-![Comic y Cultura Popular] (https://flic.kr/p/2372wQu) 
+![Comic y Cultura Popular](https://flic.kr/p/2372wQu) 
 
 
 
