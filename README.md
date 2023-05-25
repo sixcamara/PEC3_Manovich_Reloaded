@@ -4,6 +4,7 @@
 
 
 Autor: Sixto Cámara Anguita
+Cultura Digital. TIDM. UOC.
 
 
 Fecha: Mayo 2023
