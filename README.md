@@ -38,14 +38,24 @@ El 28 de Agosto de 2020, el mundo de la **Cultura Popular** quedó conmocionado 
 
 ## Re-descubriendo la hibridacion: Clubhouse
 
-[ClubHouse](https://www.clubhouse.com) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Clubhouse](https://www.clubhouse.com) fue lanzada en Marzo de 2020 de la mano de sus creadores Paul Davison y Rohan Seth, tras una año de duro trabajo. Ambos se conocieron diez años antes y sintonizaron motivados por su pasión por los productos de **Redes Sociales**. Alentados por experiencias previas de desarrollo social y podcasting, decidieron que su nueva propuesta se basaría en interactuar y socializar a través del formato **audio**. Un año después de su lanzamiento, la compañía alcanzó la valoración de empresa _unicornio_ con más de 6 millones de usuarios registrados, entre ellos **Elon Musk** o **Vladimir Putin**.
+
+Sus creadores definen a Clubhouse como una plataforma de **chat de voz** con una estructura de salas de conversación. Sus usuarios pueden unirse a las salas para escuchar los debates y reflexiones expuestas. El moderador de cada sala puede otorgar la palabra a miembros de la audiencia que así lo soliciten. Las conversaciones transcurren a tiempo real, sin embargo el acceso a las mismas es restrigindo por invitación. Esto ha envuelto de un halo elitista a la red social, lo que ha contribuido de manera determinante a su popularidad.
+
+En este caso, se manifiesta una **convergencia** de medios tradicionales como la radio, las llamadas teléfonicas, el podcasting o la interacción en redes sociales. Es inevitable recordar también a sistemas de chat, como WhatsApp, en los que los usuarios, apoderándose de sus funcionalidades, emiten mensajes en formato archivo de audio en lugar de interactuar con mensajes de texto, motivados por una mayor practicidad, economía de recursos (tiempo) y naturalidad. Una vez más, la **capa social** se hace presente y toma protagonismo.
+
+Aunque el contenido principal interactúa en formato audio, existen espacios para otros formatos, que recuerdan a las redes sociales tradicionales, tales como el perfil de usuario, los descriptores de las salas de chat o las imágenes avateres de los usuarios. Sin embargo, es indiscutible que prima por encima de todo el medio en **formato audio**. De hecho, clubhouse ofrece espacios a sus usuarios para **practicar** la exposición, oratoria, dicción y debate. Con todo ello, esta red social, es capaz de unir diferentes estilos de comunicación de distintas personas de todo el mundo con sus lenguas nativas.
+
+Algunos expertos consideran que el propio **elemento diferencial** de esta red social, el uso protagonista del mensaje en formato audio, es a su vez su gran debilidad. El _talón de Aquiles_ de toda red social es el empoderamiento de sus usarios y la necesidad, por ello, de moderar los contenidos. Si ya es difícil moderar el contenido de una red social en formato texto, todavía lo es más si el formato empleado es el audio, especialmente en Cluhouse, donde el audio es efímero y sólo está disponible mientras que la sala correspondiente está abierta y activa.
 
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* Comixology. (2023). Amazon. /https://www.amazon.com/kindle-dbs/comics-store/home?_encoding=UTF8&merchant=&ref=nav_ya_signin&#nav-top
-* International Movie Database. (2023). IMDb. /https://www.imdb.com/name/nm1569276/?ref_=nv_sr_srsg_0_tt_0_nm_8_q_chadwic
+* Comixology. (2023). Amazon. https://www.amazon.com/kindle-dbs/comics-store/home?_encoding=UTF8&merchant=&ref=nav_ya_signin&#nav-top
+* International Movie Database. (2023). IMDb. https://www.imdb.com/name/nm1569276/?ref_=nv_sr_srsg_0_tt_0_nm_8_q_chadwic
+* Molina Fernández, M. (2018, 5 Diciembre). Nuevos horizontes del noveno arte. Cómic digital. Amberes Revista Cultural. https://amberesrevista.com/comic-digital/
+* 
 
 
 ----
