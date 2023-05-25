@@ -44,7 +44,7 @@ Sus creadores definen a Clubhouse como una plataforma de **chat de voz** con una
 
 En este caso, se manifiesta una **convergencia** de medios tradicionales como la radio, las llamadas teléfonicas, el podcasting o la interacción en redes sociales. Es inevitable recordar también a sistemas de chat, como WhatsApp, en los que los usuarios, apoderándose de sus funcionalidades, emiten mensajes en formato archivo de audio en lugar de interactuar con mensajes de texto, motivados por una mayor practicidad, economía de recursos (tiempo) y naturalidad. Una vez más, la **capa social** se hace presente y toma protagonismo.
 
-Aunque el contenido principal interactúa en formato audio, existen espacios para otros formatos, que recuerdan a las redes sociales tradicionales, tales como el perfil de usuario, los descriptores de las salas de chat o las imágenes avateres de los usuarios. Sin embargo, es indiscutible que prima por encima de todo el medio en **formato audio**. De hecho, clubhouse ofrece espacios a sus usuarios para **practicar** la exposición, oratoria, dicción y debate. Con todo ello, esta red social, es capaz de unir diferentes estilos de comunicación de distintas personas de todo el mundo con sus lenguas nativas.
+Aunque el contenido principal interactúa en formato audio, existen espacios para otros formatos, que recuerdan a las redes sociales tradicionales, tales como el perfil de usuario, los descriptores de las salas de chat o las imágenes avateres de los usuarios. Sin embargo, es indiscutible que prima por encima de todo el medio en **formato audio**. De hecho, clubhouse ofrece espacios a sus usuarios para **practicar** la exposición, oratoria, dicción y debate. Con todo ello, esta red social, es capaz de unir diferentes estilos de comunicación de distintas personas de todo el mundo con sus lenguas nativas. Todo ello bajo una interfaz minimalista con la que interactúa el usuario.
 
 Algunos expertos consideran que el propio **elemento diferencial** de esta red social, el uso protagonista del mensaje en formato audio, es a su vez su gran debilidad. El _talón de Aquiles_ de toda red social es el empoderamiento de sus usarios y la necesidad, por ello, de moderar los contenidos. Si ya es difícil moderar el contenido de una red social en formato texto, todavía lo es más si el formato empleado es el audio, especialmente en Cluhouse, donde el audio es efímero y sólo está disponible mientras que la sala correspondiente está abierta y activa.
 
@@ -55,9 +55,11 @@ Algunos expertos consideran que el propio **elemento diferencial** de esta red s
 * Comixology. (2023). Amazon. https://www.amazon.com/kindle-dbs/comics-store/home?_encoding=UTF8&merchant=&ref=nav_ya_signin&#nav-top
 * International Movie Database. (2023). IMDb. https://www.imdb.com/name/nm1569276/?ref_=nv_sr_srsg_0_tt_0_nm_8_q_chadwic
 * Molina Fernández, M. (2018, 5 Diciembre). Nuevos horizontes del noveno arte. Cómic digital. Amberes Revista Cultural. https://amberesrevista.com/comic-digital/
-* 
+* Histografías. (2023). La historia de Clubhouse convertida en infografía. https://histografias.com/historia-clubhouse-app-infografia.html
+* La viznaga digital. (2023). ¿Qué es Clubhouse y por qué es tan importante? Marketing Digital. https://www.labiznagadigital.es/blog/clubhouse-redes-sociales/#:~:text=Historia%20de%20Clubhouse,entre%20una%20o%20varias%20personas.
+* BBC News. (2021, 22 de Febrero). Clubhouse: ¿qué es esta aplicación y cómo se obtiene una invtiación? https://www.bbc.com/mundo/noticias-56126658
 
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Quadrinheiros](https://quadrinheiros.com) 
