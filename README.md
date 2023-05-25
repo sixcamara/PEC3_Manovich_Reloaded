@@ -20,12 +20,12 @@ A través de las gafas de **Manovich**, en esta exposición analizaremos dos eje
 En ambos ejemplos se consuma un proceso por el cual elementos de diferentes medios tradicionales se combinan en un nuevo medio digital. Como resultado de ello, el protagonismo alcanzado por la interfaz de usuario, muestra una obra en cuyo consumo y experiencia de usuario se sobrepasan las fronteras de los medios anteriores tradicionales y permiten al usuario acceder a través de diferentes plataformas y dispositivos.
 
 
-## Re-descubriendo la hibridacion: Comixology
+## Re-descubriendo la hibridación: Comixology
 
 [Comixology](https://www.amazon.com/kindle-dbs/comics-store/home?_encoding=UTF8&merchant=&ref=nav_ya_signin&#nav-top) es una plataforma digital que da servicio a sus usuarios ofreciendo el consumo de cómics, novelas gráficas, manga, ... etc. En el servicio **convergen** diferentes medios, géneros y formatos que se fusionan dando como resultado una única experiencia de lectura y consumo. El concepto de cómic tradicional, o tebeo en castellano, ya supone en sí mismo una **hibridación de medios**, que combina elementos de las artes visuales, la novela y literatura. Sin embargo, en la plataforma Comixology, se rebasan fronteras, avanzando más allá, añadiendo la **capa social** y, por tanto, enriqueciendo la experiencia cultural y artística.
 
 Comixology **combina** y **reconfigura** el formato del medio tradicional del cómic, dotándolo además de una **interfaz de usuario** brillante, que despierta **emoción** en los usuarios, que viven una experiencia inigualable.
-Uno de los aspectos más destacables y exitosos de comixology es su sistema de navegación en las viñetas, lo que define una nueva técnica de navegación e interacción con el cómic, destando las transiciones entre las viñetas y la adaptabilidad a la ventan de visionado del usuario. El resultado final, es una **simulación** de una técnica física de navegación e interacción para la lectura y consumo de cómics.
+Uno de los aspectos más destacables y exitosos de comixology es su sistema de navegación en las viñetas, lo que define una nueva técnica de navegación e interacción con el cómic, destacando las transiciones entre las viñetas y la adaptabilidad a la ventan de visionado del usuario. El resultado final, es una **simulación** de una técnica física de navegación e interacción para la lectura y consumo de cómics.
 
 La narrativa, por tanto, se fusiona con la interactividad que experimenta el usuario. Este sistema de navegación, llamado _Guided View_, mejora la experiencia de consumo y lectura al permitir una navegación de página más dinámica, enfocarse en viñetas independientes y aumentar el tamaño de la imagen de la viñeta. El resultado condiciona una experiencia inmersiva de la mano de la narrativa y la navegación.
 
@@ -36,7 +36,7 @@ El 28 de Agosto de 2020, el mundo de la **Cultura Popular** quedó conmocionado 
 >La hibridez de medios es una reconfiguración más fundamental del universo de los medios que la multimedia. Lev Manovich.
 
 
-## Re-descubriendo la hibridacion: Clubhouse
+## Re-descubriendo la hibridación: Clubhouse
 
 [Clubhouse](https://www.clubhouse.com) fue lanzada en Marzo de 2020 de la mano de sus creadores Paul Davison y Rohan Seth, tras una año de duro trabajo. Ambos se conocieron diez años antes y sintonizaron motivados por su pasión por los productos de **Redes Sociales**. Alentados por experiencias previas de desarrollo social y podcasting, decidieron que su nueva propuesta se basaría en interactuar y socializar a través del formato **audio**. Un año después de su lanzamiento, la compañía alcanzó la valoración de empresa _unicornio_ con más de 6 millones de usuarios registrados, entre ellos **Elon Musk** o **Vladimir Putin**.
 
