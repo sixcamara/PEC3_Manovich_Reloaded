@@ -33,8 +33,8 @@ La plataforma **Comixology**, empresa subsidiaria de **Amazon** en la actualidad
 
 El 28 de Agosto de 2020, el mundo de la **Cultura Popular** quedó conmocionado al conocer la noticia del fallecimiento del actor **Chadwick Aaron Boseman**, quien se había convertido en un icono de la cultura _afroamericana_ al representar el papel del superhéroe de **Marvel** conocido con el nombre de **Black Panther**. Conocimos entonces la noticia de que el actor había luchado con humildad y discrección durante años contra la enfermedad del **Cáncer** mientras rodaba la serie de películas de **Los Vengadores** producidas por Hollywood. Ante la respuesta de los fans, consumidores y usuarios de homenaje, reconocimiento y admiración, **Comixology** impregnado de su capa social liberó todas las publicaciones de los fondos de su bilioteca protagonizados por el superhéroe de **Marvel** **Black Panther**, y lo hizo al grito de _**Wakanda Forever**_.
 
->La hibridez de medios es una reconfiguración más fundamental del universo de los medios que la multimedia.
->Lev Manovich.
+>La hibridez de medios es una reconfiguración más fundamental del universo de los medios que la multimedia. Lev Manovich.
+![Vengadores Marvel](https://www.flickr.com/photos/antdude3001/39449603900)
 
 ## Re-descubriendo la hibridacion: Clubhouse
 
